@@ -72,7 +72,7 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ### **🤖 Data Science & Machine Learning**
 - **Machine Learning Algorithm Projects**
-  🔗 [Machine Learning Algorithms Repository](https://github.com/VENIPRASANNA/DATASCIENCE_PROJECT)
+     🔗 [Machine Learning Algorithms Repository](https://github.com/VENIPRASANNA/DATASCIENCE_PROJECT)
 - Built and evaluated machine learning models using **supervised learning algorithms**.
 - Worked through the complete pipeline: **data cleaning → feature selection → model training → evaluation**.
 - Created simple **Streamlit-based interfaces** to demonstrate predictions and outcomes clearly.
