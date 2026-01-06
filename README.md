@@ -17,8 +17,6 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ---
 
-## **🛠️ Technical Skill Set**
-
 ## **🛠️ Technical Skills**
 
 ### **Programming & Databases**
