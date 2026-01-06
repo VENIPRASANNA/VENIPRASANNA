@@ -63,7 +63,8 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ### **⚙️ Company-Based Automation Project (ATUMX)**
 - **BOM Automation System – ATUMX (Company Project)**  
-  🔗 [ATUMX – BOM Automation Project](https://github.com/AtumX-Official/BOMAutomation)
+  🔗 [ATUMX – BOM Automation Project]
+  (https://github.com/AtumX-Official/BOMAutomation)
 - Contributed to a company-level automation project focused on automating Bill of Materials (BOM) workflows.
 - Worked on script-based automation, debugging, and process optimization in a professional development environment.
 - Followed structured coding practices and version control using GitHub.
