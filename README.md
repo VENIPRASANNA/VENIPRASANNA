@@ -48,8 +48,8 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 ---
 
 ### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(Basic)-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
