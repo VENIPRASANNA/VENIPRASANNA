@@ -19,32 +19,38 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ## **🛠️ Technical Skill Set**
 
-### **Core Programming**
-- Python  
-- Java  
-- SQL  
+## **🛠️ Technical Skills**
 
-### **Data & Machine Learning**
-- Data Preprocessing & Feature Engineering  
-- Linear Regression  
-- Logistic Regression  
-- K-Nearest Neighbors (KNN)  
-- Naive Bayes  
-- Decision Tree  
-- Random Forest  
+### **Programming & Databases**
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_(Basics)-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-### **Databases**
-- MySQL  
-- PostgreSQL (psql)  
-- MongoDB *(Basics)*  
+---
 
-### **Web & Tools**
-- HTML, CSS, Basic JavaScript  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Jupyter Notebook  
-- Git & GitHub  
-- Streamlit  
+### **Data Science & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat)
+
+---
+
+### **Visualization & Tools**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C3E50?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### **Web Technologies**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(Basic)-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
