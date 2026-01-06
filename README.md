@@ -63,8 +63,7 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ### **⚙️ Company-Based Automation Project (ATUMX)**
 - **BOM Automation System – ATUMX (Company Project)**  
-  🔗 [ATUMX – BOM Automation Project]
-  (https://github.com/AtumX-Official/BOMAutomation)
+  🔗 [ATUMX – BOM Automation Project](https://github.com/AtumX-Official/BOMAutomation)
 - Contributed to a company-level automation project focused on automating Bill of Materials (BOM) workflows.
 - Worked on script-based automation, debugging, and process optimization in a professional development environment.
 - Followed structured coding practices and version control using GitHub.
@@ -72,8 +71,7 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 ---
 
 ### **🤖 Data Science & Machine Learning**
-- **Machine Learning Algorithm Projects**
-     🔗 [Machine Learning Algorithms Repository](https://github.com/VENIPRASANNA/DATASCIENCE_PROJECT)
+- **Machine Learning Algorithm Projects**                                                                                                                                                                                                                 🔗 [Machine Learning Algorithms Repository](https://github.com/VENIPRASANNA/DATASCIENCE_PROJECT)
 - Built and evaluated machine learning models using **supervised learning algorithms**.
 - Worked through the complete pipeline: **data cleaning → feature selection → model training → evaluation**.
 - Created simple **Streamlit-based interfaces** to demonstrate predictions and outcomes clearly.
