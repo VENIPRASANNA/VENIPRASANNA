@@ -95,7 +95,7 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 ## **📫 Contact**
 
 - **GitHub:** https://github.com/VENIPRASANNA  
-- **LinkedIn:** *www.linkedin.com/in/veni-prasanna-35b39a32a*  
+- **LinkedIn:** *www.linkedin.com/in/veni-prasanna*  
 
 ---
 
