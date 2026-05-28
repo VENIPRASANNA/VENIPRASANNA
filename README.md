@@ -2,7 +2,7 @@
 
 ---
 
-## **👤 About Me**
+## **About Me**
 
 I am a **B.Sc Data Science & Analytics student** focused on building **practical, working solutions** using data, automation, and software fundamentals. My experience spans **company-based automation work**, hands-on **machine learning algorithm implementation**, and **web-based projects**, giving me a balanced exposure to both academic and real-world problem solving.
 
@@ -10,14 +10,14 @@ I value clean logic, clear understanding of fundamentals, and disciplined implem
 
 ---
 
-## **🎓 Education**
+## **Education**
 
 **Bachelor of Science (B.Sc) – Data Science & Analytics**  
 Rathinam College of Arts and Science, Tamil Nadu, India
 
 ---
 
-## **🛠️ Technical Skills**
+## **Technical Skills**
 
 ### **Programming & Databases**
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
@@ -52,16 +52,16 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ---
 
-## **📘 Currently Learning**
+## **Currently Learning**
 - Strengthening core Machine Learning concepts through implementation  
 - Relational database design and queries using **PostgreSQL (psql)**  
 - NoSQL fundamentals with **MongoDB (Basics)**  
 
 ---
 
-## **📂 Project Experience**
+## **Project Experience**
 
-### **⚙️ Company-Based Automation Project (ATUMX)**
+### **Company-Based Automation Project (ATUMX)**
 - **BOM Automation System – ATUMX (Company Project)** 🔗 [ATUMX – BOM Automation Project](https://github.com/AtumX-Official/BOMAutomation)
 - Contributed to a company-level automation project focused on automating Bill of Materials (BOM) workflows.
 - Worked on script-based automation, debugging, and process optimization in a professional development environment.
@@ -69,7 +69,7 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ---
 
-### **🤖 Data Science & Machine Learning**
+### **Data Science & Machine Learning**
 - **Machine Learning Algorithm Projects**                                                                                                                                                                                                                 🔗 [Machine Learning Algorithms Repository](https://github.com/VENIPRASANNA/DATASCIENCE_PROJECT)
 - Built and evaluated machine learning models using **supervised learning algorithms**.
 - Worked through the complete pipeline: **data cleaning → feature selection → model training → evaluation**.
@@ -78,13 +78,13 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ---
 
-### **🌐 Web Development (HTML Projects)**
+### **Web Development (HTML Projects)**
 - Developed structured and responsive web pages using **HTML5 and CSS3**.
 - Focused on clean layouts, forms, and basic user interaction.
 
 ---
 
-## **🎯 Professional Interests**
+## **Professional Interests**
 - Data Science & Analytics  
 - Machine Learning Applications  
 - Automation & Process Optimization  
@@ -92,7 +92,7 @@ Rathinam College of Arts and Science, Tamil Nadu, India
 
 ---
 
-## **📫 Contact**
+## **Contact**
 
 - **GitHub:** https://github.com/VENIPRASANNA  
 - **LinkedIn:** *www.linkedin.com/in/veni-prasanna*  
